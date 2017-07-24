@@ -1,3 +1,3 @@
 code for ch2
 
-The "visualizers" will produce the same images as those given in the book.
+The "visualizers" will produce the same images as those given in the book, whereas the other .py's are used to hold the classes that do the heavy lifting.
